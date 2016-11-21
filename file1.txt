@@ -1,2 +1,7 @@
 this is my first file
+<<<<<<< HEAD
 this is my first change to it
+=======
+
+This is a line i added to the cloned file
+>>>>>>> dc28e9add43d34227944c5d241ba897340d82864
